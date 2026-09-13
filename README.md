@@ -1,46 +1,26 @@
 Thomas Leyrit
 
-I'm interested in Machine Learning, Computer Vision, Statistics, and Applied Mathematics.
+Machine Learning · Computer Vision · Statistics · Applied Mathematics
 
-I enjoy working on problems where mathematical modeling and machine learning meet real-world data.
+I work on problems at the intersection of mathematical modeling, machine learning, and real-world data.
 
-Selected Projects
-Dynamic Graph CNN — Point Clouds
+Projects
 
-Deep learning on 3D point clouds using Dynamic Graph CNN architectures.
+Dynamic Graph CNN — Deep learning on 3D point clouds
+Python · PyTorch · 3D Computer Vision
 
-Tech: Python · PyTorch · Deep Learning · 3D Computer Vision
+Medical Image Classification — Histopathological image classification for invasive ductal carcinoma detection
+Python · PyTorch · Computer Vision · Medical Imaging
 
-Medical Image Classification
+JPEG Forgery Detection — Image manipulation detection using JPEG blocking artifacts
+Python · Image Processing · Computer Vision
 
-Classification of histopathological tissue images for invasive ductal carcinoma detection.
+Non-parametric Statistics — Kernel density estimation and statistical methods
+Python · Statistics · Probability
 
-Tech: Python · PyTorch · CNN · Computer Vision · Medical Imaging
+Reinforced Urn Processes — Asymptotic analysis of Pólya and Friedman urn models
+Probability · Stochastic Processes · Asymptotic Analysis
 
-JPEG Forgery Detection
+Stack
 
-Detection of image manipulations using JPEG blocking artifacts.
-
-Tech: Python · Image Processing · Computer Vision · Signal Analysis
-
-Non-parametric Statistics
-
-Implementation and study of kernel density estimation and related statistical methods.
-
-Tech: Python · Statistics · Probability · Data Analysis
-
-Reinforced Urn Processes
-
-Study of the asymptotic behavior of reinforced stochastic processes, including Pólya and Friedman urn models.
-
-Topics: Probability · Stochastic Processes · Asymptotic Analysis
-
-Tech Stack
-
-Languages: Python · R · C/C++
-
-Machine Learning: PyTorch · Scikit-learn
-
-Scientific Computing: NumPy · Pandas · SciPy · Matplotlib
-
-Areas: Machine Learning · Computer Vision · Statistics · Probability · Deep Learning
+Python · R · C/C++ · PyTorch · Scikit-learn · NumPy · Pandas · SciPy · Matplotlib
