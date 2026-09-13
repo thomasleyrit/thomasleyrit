@@ -1,16 +1,37 @@
-## Hi there 👋
+Welcome to my page, I'm Thomas Leyrit 👋
 
-<!--
-**thomasleyrit/thomasleyrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in Machine Learning, Computer Vision, Statistics and Applied Mathematics.
 
-Here are some ideas to get you started:
+I enjoy working on problems where mathematical modeling and machine learning meet real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected projects : 
+
+- Dynamic Graph CNN — Point Clouds (Deep learning on 3D point clouds using Dynamic Graph CNN architectures)
+
+Tech: Python · PyTorch · Deep Learning · 3D Computer Vision
+
+-  Medical Image Classification (Classification of histopathological tissue images for invasive ductal carcinoma detection)
+
+Tech: Python · PyTorch · CNN · Computer Vision · Medical Imaging
+
+ - JPEG Forgery Detection (Detection of image manipulations using JPEG blocking artifacts)
+
+Tech: Python · Image Processing · Computer Vision · Signal Analysis
+
+ - Non-parametric Statistics (Implementation and study of kernel density estimation and related statistical methods)
+
+Tech: Python · Statistics · Probability · Data Analysis
+
+ - Reinforced Urn Processes (Study of the asymptotic behavior of reinforced stochastic processes, including Pólya and Friedman urn models)
+
+Topics: Probability · Stochastic Processes · Asymptotic Analysis
+
+ - Technologies
+
+Languages: Python · R · C/C++
+
+Machine Learning: PyTorch · Scikit-learn
+
+Data & Scientific Computing: NumPy · Pandas · SciPy · Matplotlib
+
+Areas: Machine Learning · Computer Vision · Statistics · Probability · Deep Learning
